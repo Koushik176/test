@@ -1,0 +1,5 @@
+{{#user}
+Name: Koushik K A
+Skills: HTML, CSS, JS, React.js, Bootstrap
+Email: koushikashok176@gmail.com
+{{/user}}
